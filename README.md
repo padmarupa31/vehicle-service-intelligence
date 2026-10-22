@@ -6,7 +6,9 @@ An interactive data analytics dashboard built with Python to explore motorcycle 
 **Live Demo:** [Vehicle Service Intelligence Dashboard](https://vehicle-service-intelligence.onrender.com/)  
 **Source Code:** [GitHub Repository](https://github.com/padmarupa31/vehicle-service-intelligence)
 
----
+## Dashboard Preview
+
+![Vehicle Service Intelligence Dashboard](dashboard.png)
 
 ## Overview
 
