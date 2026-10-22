@@ -1,0 +1,44 @@
+Service ID,Vehicle ID,Vehicle Model,Service Date,Service Type,Service Cost,Odometer (km),Notes
+VS-1001,VH-007,Himalayan,2026-01-03,Chain maintenance,1800,15043,"Chain cleaned, adjusted and lubricated"
+VS-1002,VH-012,Hunter 350,2026-01-07,Periodic service,3000,16502,Oil and filter checked/replaced
+VS-1003,VH-005,Hunter 350,2026-01-11,Chain maintenance,700,3720,"Chain cleaned, adjusted and lubricated"
+VS-1004,VH-011,Meteor 350,2026-02-03,General repair,3700,19606,General service concern reviewed
+VS-1005,VH-004,Hunter 350,2026-02-07,Oil change,1600,14653,Engine oil replaced
+VS-1006,VH-009,Classic 350,2026-02-11,General repair,3000,6438,General service concern reviewed
+VS-1007,VH-002,Meteor 350,2026-02-14,Oil change,1200,13521,Engine oil replaced
+VS-1008,VH-007,Himalayan,2026-02-18,General repair,2100,16843,General service concern reviewed
+VS-1009,VH-001,Classic 350,2026-03-03,General repair,4800,6686,General service concern reviewed
+VS-1010,VH-006,Himalayan,2026-03-07,Oil change,1800,18686,Engine oil replaced
+VS-1011,VH-012,Hunter 350,2026-04-03,Electrical check,2100,17702,Battery and lights checked
+VS-1012,VH-005,Hunter 350,2026-04-07,Brake inspection,1800,5220,Brake pads and fluid inspected
+VS-1013,VH-010,Meteor 350,2026-04-11,Electrical check,1800,8880,Battery and lights checked
+VS-1014,VH-003,Meteor 350,2026-04-14,Brake inspection,1200,5377,Brake pads and fluid inspected
+VS-1015,VH-008,Classic 350,2026-04-18,Electrical check,800,7238,Battery and lights checked
+VS-1016,VH-001,Classic 350,2026-04-21,Brake inspection,1400,7886,Brake pads and fluid inspected
+VS-1017,VH-007,Himalayan,2026-05-03,Periodic service,2100,18643,Oil and filter checked/replaced
+VS-1018,VH-012,Hunter 350,2026-05-07,Chain maintenance,1100,19502,"Chain cleaned, adjusted and lubricated"
+VS-1019,VH-005,Hunter 350,2026-05-11,Periodic service,2200,7020,Oil and filter checked/replaced
+VS-1020,VH-011,Meteor 350,2026-06-03,Oil change,1400,20056,Engine oil replaced
+VS-1021,VH-004,Hunter 350,2026-06-07,General repair,2300,16453,General service concern reviewed
+VS-1022,VH-009,Classic 350,2026-06-11,Oil change,2100,8238,Engine oil replaced
+VS-1023,VH-002,Meteor 350,2026-06-14,General repair,4800,14221,General service concern reviewed
+VS-1024,VH-007,Himalayan,2026-06-18,Oil change,1600,19093,Engine oil replaced
+VS-1025,VH-012,Hunter 350,2026-06-21,General repair,1900,20702,General service concern reviewed
+VS-1026,VH-005,Hunter 350,2026-06-24,Oil change,1600,7920,Engine oil replaced
+VS-1027,VH-011,Meteor 350,2026-07-03,Periodic service,3200,21556,Oil and filter checked/replaced
+VS-1028,VH-004,Hunter 350,2026-07-07,Chain maintenance,700,17653,"Chain cleaned, adjusted and lubricated"
+VS-1029,VH-009,Classic 350,2026-07-11,Periodic service,2900,9138,Oil and filter checked/replaced
+VS-1030,VH-002,Meteor 350,2026-07-14,Chain maintenance,1100,14671,"Chain cleaned, adjusted and lubricated"
+VS-1031,VH-008,Classic 350,2026-08-03,Electrical check,800,9038,Battery and lights checked
+VS-1032,VH-001,Classic 350,2026-08-07,Brake inspection,1200,9086,Brake pads and fluid inspected
+VS-1033,VH-006,Himalayan,2026-08-11,Electrical check,1900,20486,Battery and lights checked
+VS-1034,VH-011,Meteor 350,2026-08-14,Brake inspection,1900,22456,Brake pads and fluid inspected
+VS-1035,VH-004,Hunter 350,2026-08-18,Electrical check,1900,18353,Battery and lights checked
+VS-1036,VH-010,Meteor 350,2026-09-03,Electrical check,1400,9330,Battery and lights checked
+VS-1037,VH-003,Meteor 350,2026-09-07,Brake inspection,900,6877,Brake pads and fluid inspected
+VS-1038,VH-009,Classic 350,2026-10-03,Chain maintenance,900,9588,"Chain cleaned, adjusted and lubricated"
+VS-1039,VH-002,Meteor 350,2026-10-07,Periodic service,2100,16471,Oil and filter checked/replaced
+VS-1040,VH-007,Himalayan,2026-10-11,Chain maintenance,1600,19543,"Chain cleaned, adjusted and lubricated"
+VS-1041,VH-012,Hunter 350,2026-10-14,Periodic service,2100,22202,Oil and filter checked/replaced
+VS-1042,VH-005,Hunter 350,2026-10-18,Chain maintenance,1300,8820,"Chain cleaned, adjusted and lubricated"
+VS-1043,VH-010,Meteor 350,2026-10-21,Periodic service,2900,10230,Oil and filter checked/replaced
